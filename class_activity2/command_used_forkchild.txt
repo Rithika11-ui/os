@@ -1,0 +1,15 @@
+   41  ssh gic-phe-rithika@192.168.20.227
+   42  cd ~/class_activity2
+   43  #include <stdio.h>
+   44  #include <stdlib.h>
+   45  #include <unistd.h>
+   46  int main() {
+   47  }
+   48  cd ../
+   49  tree
+   50  cd class_activity2
+   51  nano forkchild.c
+   52  gcc -o forkchild forkchild.c
+   53  ./forkchild > result_forkchild.txt
+   54  cat result_forkchild.txt
+   55  history | tail -n 15 > command_used_forkchild.txt

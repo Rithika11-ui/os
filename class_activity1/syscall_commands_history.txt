@@ -1,0 +1,29 @@
+    1  cd file1
+    2  /home/
+    3  cd home
+    4  ssh gic-phe-rithika@192.168.241.215
+    5  ls
+    6  pwd
+    7  cd/
+    8  tree
+    9  sudo apt update
+   10  sudo apt install tree
+   11  tree
+   12  ssh gic-rithika-phe@192.168.20.231
+   13  ssh gic-phe-rithika@192.168.20.231
+   14  mkdir class_activity1
+   15  cd class_activity1
+   16  nano syscall1.c
+   17  gcc syscall1.c -o syscall1
+   18  sudo install gcc
+   19  sudo apt install gcc
+   20  gcc syscall1.c -o syscall1
+   21  ls
+   22  ./syscall1
+   23  ls
+   24  touch result.txt copyresult.txt
+   25  ls
+   26  nano result.txt
+   27  nano copyfilesyscall.c
+   28  cat copyresult.txt
+   29  history | tail -n 50 > /home/phe_rithika/class_activity1/syscall_commands_history.txt
